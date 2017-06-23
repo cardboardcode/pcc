@@ -8,3 +8,28 @@
 >2. Click "Download ZIP"
 
 >3. You are done. 
+
+###Useful Links
+
+#### Online Learning resources:
+1. [TutorialPoint][tutorialpoint]
+2. [Hitchhiker's Guide To Python][hitchhiker]
+
+
+####API (Application Program Interface)
+[Python 3 documentations][pydocs]
+
+Exercise Codes & Slides
+1. You are here
+
+#### Specializations
+[Web Development Django][webdev]
+[Data-mining][datamine]
+  
+
+[tutorialpoint]: https://www.tutorialspoint.com/python/index.htm
+[hitchhiker]: http://python-guide-pt-br.readthedocs.io/en/latest/
+[pydocs]: https://docs.python.org/3/
+[webdev]: https://docs.djangoproject.com/en/1.11/intro/
+[datamine]: http://guidetodatamining.com/
+
