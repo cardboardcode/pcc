@@ -1,0 +1,398 @@
+Hi guys, thank you for taking the time out to attend this Python Confidence Workshop. 
+
+In this workshop, I would like to be clear that the main aim is to get you well-started on programming in Python, NOT to teach you the nitty-gritty details of the language and the concepts. 
+
+Don't worry about taking notes. The slides will be available for download in a link which I will share at the end of the workshop. 
+
+[CLICK]
+
+Before I start the course, I will just share a bit about myself. I am Bey Hao Yun but you can call me Gary so it is easier to remember. I am a third-year Computer Engineering student studying in NUS. I have coded my own python-based website before. Here's the link. And I have led a development team before to create our own task-management app. Both are free for download.
+
+For those of you who are not university student and have no prior experience to programming, you are in the same situation I was when I was your age. So I understand if it can be hard picking up on such a foreign concept and thank you for taking the initiative to start learning by coming to this workshop.
+
+Without further ado, let's begin the workshop.
+
+[CLICK]
+
+This workshop will be 3 hours long and we will aim to end it at 1300 sharp. This is our course overview. There are six parts which I would like to go through. 
+
+First, I will talk about programming in general. What is it? Why learn? If you want to learn, why learn Python?
+Second, Once that is done, I will explain what is Python.
+Then, you shall go into the basics where we will start coding our very first programs. 
+After that, once you get a hang of the language, we will go through Object-Oriented Programming principles which are in essense a way to structure how you code.
+And then we will conclude. 
+
+Now I know that this workshop will mostly be dry but here is an incentive. If you can make it to the end of this course, I will give you a link where you can download a python program I coded that allows you to do basic cryptography. So let's jump right into it. 
+ 
+[CLICK]
+
+Now what is programming? It is a process of taking an algorithm and encoding it into a notation, a language, so that it can be executed by a computer. 
+
+Like how you learn English, Chinese, Malay, Tamil or even Maths, it is about picking a new language. This time is for you to speak to computers.
+
+But why speak to the computer?
+So take for instance, you asking a worker to do something for you, like calling someone else. The worker will have to do the following steps: 
+
+-Find a phone
+-Pick up the phone
+- Dial in the number
+- Speak to the other person
+- and finally, hang up the person.
+
+All these, done at human speed, right?
+
+[CLICK]
+
+Now, replace the worker with, say, an automated call system; a computer basically. It will now be doing those exact same steps at computer speed. In other words, so much faster. And that's why you want programming.
+
+[CLICK]
+
+However, what is the drawback? while it is fast, unlike humans, computers are ridiculously dumb. 
+
+[CLICK]
+
+Therefore, coding it right is vitally important in programming. Like any language, clear communication is important.
+
+[CLICK]
+
+Now why learn Python? it is beginner friendly and a lot more human-readable. It is open source which means it is free and a lot of businesses use it. Who are these businesses?
+
+[CLICK]
+You have Youtube, Minecraft, Industrial(Light & Magic) - the people behind the CG in the recent STARWARS movie. Eve Online. Phillips - the company in charge of air conditioners. D-Link - the company selling routers. Hp - some of your laptops, Battlefield 2.
+
+And ...
+
+[CLICK]
+
+Google Chrome uses Python.
+
+Therefore, why should you learn Python? because it is easy-to-learn and it is widely-used.
+
+[CLICK]
+
+Now let's delve deeper into what exactly is the Python language?
+It is an intepreted, object-oriented, high-level programming language with dynamic semantics. 
+
+Don't worry. I will be going through what these keywords mean exactly later in the workshop.
+
+The latest version of Python is 3.6.1 and from my experience, Python is mainly used in Web Development and Data-analytics.
+
+Python is created by Guido Van Rossum. This guy (Point to picture)
+It started in 1989 and its name actually came from the Monty Python comedy group in Britain. Just a factoid.
+
+[CLICK]
+
+So we have a better impression of what this language is. Let's learn about its basic features and then we can start using it. 
+
+[CLICK]
+
+When you start setting up your python program, always start with this statement at the top of your file because it helps define clearly what language you want the computer to use for that particular file. 
+
+Then you import whatever packages you need, followed by  the rest of your program. I will go through how to "import" later in the workshop. 
+
+[CLICK]
+
+Running from the command prompt, just type "python <filename>.py" to run it. You can identify a python file by its unique extension ".py". This is just for your information. Unlike more common languages like Java and C, Python does its own compiling at runtime. What do I mean by that?
+
+[CLICK]
+
+If you were to run a java or c program, this is what you have to type in the command prompt instead. Rather than one command, you have to compile the program first before run. Python does both at the same time.
+
+[CLICK]
+
+As you code, you will need variables which help contain the values which you want to manipulate. Each variable is given a name or identifier. For python, it can start from any letter, capitalized or small letters, underscores or digits.
+
+[CLICK]
+
+Can you give any name you like to your variable? Yes. you can but there are naming conventions which you should follow so your code is clear. Remember, the most important point about coding properly is to be able to read it after. This are just some naming conventions but I don't need you to memorize it. Just know that it exists and you should explore more in-depth into it in your own time.
+
+[CLICK]
+
+Now this is very important. Please circle this in blood. The way python is read in the computer depends heavily on the lines and indentations which segment the code. If it is just off like this, it will read an error. Make sure the indentation is the same amount for each line and segment.
+
+[CLICK]
+
+Python has five standard data types; Numbers, Strings, List, Tuple and Dictionary. For this workshop, I will only focus on these three. And we shall begin with Numbers
+
+[CLICK]
+
+Number data types are what you expect. They contain numerical data and this is how it is assigned, much like how you would do your maths in school. There four different numerical types to take note. Integer, Long, Floating and Complex numbers.
+
+[CLICK]
+
+This is just a few examples.
+[wait for about 10 seconds]
+
+[CLICK]
+
+Strings. In python or programming in general, the way the computer store a string is like this. A contiguous set of charactes repesented in the quotation mark, as you see here. It is a table for "n" columns, each containing the letters which spell out the word string. 
+
+The way it is numbered is slightly uninituitive so please take note. It starts at 0 and the end of the string ends in "n - 1 ", as you can see here. 
+
+So for example, if you want to refer ot the letter "H", the index you need to bring up is 0.  
+
+[CLICK]
+
+Lists .They are the most versatile of Python's compound data types. Similiar to Strings but instead of just character, you can have it contain different data types like this. 
+(Wait for 10 seconds)
+
+[CLICK]
+
+Basic Operators. You have your variables. You need operators to start playing around with them. And for python, there are a lot of different types of operators. Again, for the sake of time, I will go through the more commonly used operators. The first three here. 
+
+[CLICK]
+Firstly, Arithmetic Operators. This is what you would expect when you are doing maths in school. There are just a few notable difference I would like to point. Instead of an "X", multiplying uses the asterick icon on your keyboard. If it is division, it is front slash which underneath your question mark on the keyboard.
+
+And there are a few others arithmetic operators as well. 
+
+[CLICK]
+
+Moving on, these are comparision operators. Conditionaly statements in programming will use this heavily. I will go through that soon enough. If you want to check if two operands are the same, you use "two equal signs". If you want to check if two operands are NOT the same, you use "! and equal sign". And finally if you want to compare whether a operator is bigger than the other, you use the "more than" sign. 
+
+[CLICK]
+
+Assignment Operators. Like you seem earlier with Numbers, you can assign a value to a variable. If you use this assignment operator with a "plus" in front, what it does is it addes to the original value of variable and assigns it to the variable. These are just for your references only. No need to memorize.  
+
+[CLICK]
+
+YES! Let's get to the part you were waiting for. Coding.
+
+[CLICK]
+
+With those basics in mind, today we shall explore and create some simple programs. 
+
+- Your first program will be Hello World which is outputting.
+- Then how do we receive input.
+- How to get the computer to calculate for us.
+- How to deal with strings
+- lists.
+- Conditional statements - how to make your program think.
+- How to loop.
+
+[CLICK]
+
+Okay. let's begin your first step and code your very first program. Hello World. 
+(Wait for 5 minutes)
+
+Is everyone done? Congratulations! This is your very first program. Your program is able to talk. The keyword here is "print".
+
+[CLICK]
+
+How do you make it listen then? Same as before, just type out these codes and run it. 
+
+The keyword is "input" here.
+
+(Wait for 5 minutes)
+
+[CLICK]
+
+Now that your program has learnt to talk and listen. Let's have it calculate for us. Copy this code. 
+
+This lines of codes is used to calculate the area of a rectangle and print it out.
+(Wait for 5 minutes)
+
+Is everyone's rectangle calculated? Good. Let's move on.
+
+[CLICK]
+
+Now for the first exercise. (Go through exercise verbally)
+
+(Wait for 10 minutes)
+
+[CLICK]
+
+Let's deal with strings now. How do you manipulate them. Copy down these codes and run it
+
+(Wait for 5 minutes)
+
+[CLICK]
+
+
+Let's put into practice now. (Go through exercise verbally.)
+
+(Wait for 10 minutes)
+
+[CLICK]
+
+Now let's deal with Lists. copy down the code and run it 
+
+(Wait for 5 minutes)
+
+
+[CLICK]
+
+Your program can talk, listen and think but it is not enough. Let's make it smarter. Let's have it make decision on its own. Copy down the code and run it. 
+
+(Wait for 5 minutes)
+
+[CLICK] 
+
+Again, let's put into practice (Go through exercise verbally)
+
+(Wait for 10 minutes)
+
+[CLICK]
+
+Much like our earlier phone-calling analogy, calling someone is a tedious task to do, especially if you have to do it for hundreds, even thousands of people. Your program is smarter and it needs to help you do this. 
+
+Therefore, there are a situation where you need to execute the same block of code several times and there are different ways to loop your program.
+
+[CLICK]
+
+For python, there is the while loop and the for loop. 
+
+What is the main difference between them?
+The while loop condition is more clear-cut in nature. It will only stop when the condition is FALSE. but for the for loop, it will stop after a specified number of iterations.
+
+copy the code down and run it 
+(Wait for 5 minutes)
+
+[CLICK]
+
+Exercise time.
+(Wait for 10 minutes.)
+
+[CLICK]
+
+Thank you for making it this far. You have the basics of Python programming now but, as I said, coding is not just about functionalities. It is about readable as well. That is why structure is important. 
+
+Like in English, you may know what a noun is, an adjective is or a verb. However, how do you phrase it properly so the other party knows exactly what you are talking about?
+
+This is what Object-Oriented Programming and its philosophy. It is how you will structure your codes even further.
+
+[CLICK]
+
+Why is it called Object-Oriented Programming? Unlike procedural programming (which is another way to structure your codes), OOP models programs in terms of real-world objects.
+
+When you create an object, it needs a name. It has a certain behaviour and it changes based on how it interacts with other objects or environment.
+
+[CLICK]
+
+These are its fundamental concepts. Again, this is just for your information. I am going through this because it is the backbone on how we are going to structure our codes later in our final exercises. 
+
+Encapsulation is about restricting access to the variables you create for an object. It is security in a sense.
+
+Inheritance is about reusing codes so you need not reinvent the wheel when somebody else already done so ages ago. 
+
+Abstraction is about readability. An example would be like a vending machine. Do you need to understand how the machine processes your coin to give you your drink? No. All you need to know is to put your coin in and let it do its job. All you need to concern yourself is the interface you are looking at.
+
+And finally polymorphism, this is a slightly tricky one which I would not go through. Please explore this in your spare time.
+
+[CLICK]
+
+Earlier, like in coding your math programs, you are "importing" the codes which other people before you have written. However, there are times where you need to code based on a very specific need. What do you do then? Do you wait for someone to code for you? No. You start coding it yourself and who knows, other people may also start importing from you as well. 
+
+[CLICK]
+
+This is how we start creating our objects.
+A class statement creates a class definition. A class is a blueprint for how objects are created. It contains methods and attributes. One thing to take note here is there will now be a service class and a client class. 
+
+In your math program, you are the client because you are requesting service by importing it. The math class is the service class where they service you by providing the data you need.
+
+[CLICK]
+
+Your object or class has attributes. In other words, there have values attached to them. For instance, this water bottle is an object, the value it has can be the amount of fluid it contains. So the value would be .... cm3. 
+
+Your object or class also has behaviours. You can interact with it and it will react to you in different ways. If you empty out the water bottle, the fluid drops to 0 cm3. If you throw the bottle in the air, it goes up and it goes down. These behaviours in coding is what we call functions or methods.
+
+And there are three main types of methods:
+Constructor which is a method to called your object into existence and start using.
+Accessor which returns the value of an attribute of your object.
+and Mutator which changes a value of your object.
+
+
+[CLICK]
+
+So let's get our hands dirty again and code.
+
+[CLICK]
+
+Imagine now that you are an all powerful creator of cups. This is how you start defining your cup. For me, I will use to store coffee probably but feel free to choose any beverage you want.
+
+copy down the code 
+
+(Wait for 2 minutes)
+
+[CLICK]
+
+Now to create your cup and start using it. This is the constructor.
+
+copy down the code
+
+(Wait for 2 minutes)
+
+[CLICK]
+
+You have your cup. Now to look at it.
+
+copy down the code
+
+(Wait for 2 minutes)
+
+[CLICK]
+
+After you are done looking at it, you want to start filling it up.
+
+copy down the codes
+
+(wait for 2 minutes)
+ 
+[CLICK]
+
+That was the service class. Don't forget about the hand holding the cup.
+
+copy down the code
+
+(wait for 5 minutes)
+
+So what this service and client class combo will do now is it imports information about  the cup. 
+
+- creates the cup
+- checks the cup
+
+- fills up with 5cm3 of coffee 
+- checks it once again
+
+- topus up another 10cm3 of coffee
+- checks again.
+
+[CLICK]
+
+For our final exercise, write the following programs 
+
+(Wait for 15 minutes)
+
+Is everyone done? Good
+
+[CLICK]
+
+This is what your code should look like now.
+
+[CLICK]
+
+Run the code and see what happens. 
+
+[CLICK]
+
+Give yourself a pat on the back. You are a python designer now. Which brings us to the end of this workshop.
+
+[CLICK]
+
+In conclusion, these are the following links you can use as you start exploring Python on your own. And that is very very important. This is my final message to you before you go off on your own.
+
+[CLICK]
+
+As you explore on your own, you will definitely feel pain and sometimes feel you are getting nowhere in your coding proficiency. But that is completely and absolutely natural. This is what I realize in my experience, Improvements happen in very small steps, so small and subtle that it is so god damn annoying. 
+
+Understandably, there will come times where you really feel like giving up and just think to youself that "okay, once I have this one whole week to study or just these 3 long hours to myself to practice on my own, I will be able to master it properly." What I can tell is, those big blocks of times we imagine rarely exists. So grab any opportunity you can, no matter how small it is. 
+
+You guys know J.K.Rowling? The author of the worldwide popular Harry Potter book series. She did that while raising your child after a very violent divorce. So what she did was even if there was just 5 minutes of free time she had, she took it to write even just one more word in her book to bring a step closer to completion. 
+
+So it will definitely get frustrating but we are all irrational creatures. So tell yourself that the cup is always half-full. 
+
+[CLICK]
+
+Thank you. 
+
+
+
