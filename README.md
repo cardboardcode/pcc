@@ -26,8 +26,8 @@
 You are here  
 
 #### Specializations
-[Web Development Django][webdev]
-[Data-mining][datamine]
+*[Web Development Django][webdev]  
+*[Data-mining][datamine]
 
 #### Contact Me:
 cardboardmails@gmail.com
