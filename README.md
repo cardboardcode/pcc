@@ -9,7 +9,8 @@
 
 
 
-###Useful Links
+
+### Useful Links
 
 #### Online Learning resources:
 1. [TutorialPoint][tutorialpoint]
@@ -17,11 +18,11 @@
 
 
 
-####API (Application Program Interface)
+#### API (Application Program Interface)  
 [Python 3 documentations][pydocs]  
 
   
-####Exercise Codes & Slides
+#### Exercise Codes & Slides
 You are here  
 
 #### Specializations
