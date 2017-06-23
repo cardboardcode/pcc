@@ -3,11 +3,9 @@
 
 ### How to Download:
 
->1. See the green button on the top right corner of the above list of files? (Click it)
-
->2. Click "Download ZIP"
-
->3. You are done. 
+>1. See the green button on the top right corner of the above list of files? (Click it)  
+2. Click "Download ZIP"  
+3. You are done.     
 
 
 
@@ -20,11 +18,11 @@
 
 
 ####API (Application Program Interface)
-[Python 3 documentations][pydocs]
+[Python 3 documentations][pydocs]  
 
-
+  
 ####Exercise Codes & Slides
-You are here
+You are here  
 
 #### Specializations
 [Web Development Django][webdev]
