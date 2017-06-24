@@ -1,5 +1,6 @@
 # **Python Confidence Course**
 
+## [Windows 7 Version of Codes here][7link]
 
 ### How to Download:
 
@@ -34,7 +35,7 @@ You are here
 #### Contact Me:
 cardboardmails@gmail.com
 
-#### [Grumpy Codes][gcodes]
+#### Depressed about programming? Have a laugh by checking my comic, [Grumpy Codes][gcodes]
 
 
   
@@ -44,4 +45,5 @@ cardboardmails@gmail.com
 [pydocs]: https://docs.python.org/3/
 [webdev]: https://docs.djangoproject.com/en/1.11/intro/
 [datamine]: http://guidetodatamining.com/
-[gcodes]:https://tapas.io/series/Grumpy-Codes
+[gcodes]: https://tapas.io/series/Grumpy-Codes
+[7link]: https://github.com/cardboardcode/pcc/tree/06daa037081549d11f06af0d4f0a0e97cdb03521
