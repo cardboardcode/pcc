@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 
-_daword = raw_input("Input the word: ")
+_daword = input("Input the word: ")
 
-print "The letter you want is: " , len(_daword) , "."
+print ("The letter you want is: " + str(len(_daword)) + ".")

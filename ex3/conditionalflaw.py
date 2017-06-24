@@ -2,7 +2,7 @@
 
 var = 100
 
-foo = input("Input your number: ")
+foo = int(input("Input your number: "))
 
 if (foo > var ):
 	print("The number you input is more than 100.")

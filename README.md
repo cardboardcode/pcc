@@ -1,6 +1,7 @@
 # **Python Confidence Course**
 
 ## [Windows 7 Version of Codes here][7link]
+## [Windows 10 Version of Codes here][10link]
 
 ### How to Download:
 
@@ -47,3 +48,4 @@ cardboardmails@gmail.com
 [datamine]: http://guidetodatamining.com/
 [gcodes]: https://tapas.io/series/Grumpy-Codes
 [7link]: https://github.com/cardboardcode/pcc/tree/06daa037081549d11f06af0d4f0a0e97cdb03521
+[10link]: https://github.com/cardboardcode/pcc

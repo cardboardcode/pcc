@@ -1,11 +1,10 @@
-
 #!/usr/bin/env python
 import math
 
-width = input("Enter width: ")
-length = input("Enter length: ")
-height = input("Enter height: ")
+width = int(input("Enter width: "))
+length = int(input("Enter length: "))
+height = int(input("Enter height: "))
 
 volume = width * length * height
 
-print "Total volume of cuboid is : " , volume , "cm3."
+print ("Total volume of cuboid is : "  + str(volume) + "cm3.")

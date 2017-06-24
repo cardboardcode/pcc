@@ -22,7 +22,7 @@ class Cup:
 		if ((self.coffee + add)< 20):
 			self.coffee += add
 		else:
-			print("You will spill coffee.")
+			print("Emergerd. You will spill coffee. What a waste!")
 
 	def observe(self):
 		if (self.coffee == 10):
