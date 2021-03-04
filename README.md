@@ -33,7 +33,7 @@ cardboardmails@gmail.com
 
 
 [tutorialpoint]: https://www.tutorialspoint.com/python/index.htm
-[hitchhiker]: http://python-guide-pt-br.readthedocs.io/en/latest/
+[hitchhiker]: https://docs.python-guide.org/
 [pydocs]: https://docs.python.org/3/
 [webdev]: https://docs.djangoproject.com/en/1.11/intro/
 [datamine]: http://guidetodatamining.com/
