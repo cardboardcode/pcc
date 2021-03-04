@@ -9,23 +9,14 @@
 >2. Click "Download ZIP"  
 >3. You are done.     
 
-
-
-
 ### Useful Links
 
 #### Online Learning resources:
 1. [TutorialPoint][tutorialpoint]
 2. [Hitchhiker's Guide To Python][hitchhiker]
 
-
-
 #### API (Application Program Interface)  
 [Python 3 documentations][pydocs]  
-
-  
-#### Exercise Codes & Slides
-You are here  
 
 #### Specializations
 
@@ -39,7 +30,7 @@ cardboardmails@gmail.com
 #### Depressed about programming? Have a laugh by checking my comic, [Grumpy Codes][gcodes]
 
 
-  
+
 
 [tutorialpoint]: https://www.tutorialspoint.com/python/index.htm
 [hitchhiker]: http://python-guide-pt-br.readthedocs.io/en/latest/
