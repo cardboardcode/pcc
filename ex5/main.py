@@ -17,6 +17,3 @@ cup1.check()
 cup1.topupfull()
 cup1.topup(1)
 cup1.check()
-
-cup1.topuphalf()
-cup1.observe()

@@ -5,6 +5,4 @@ iterations = int(input())
 
 for index in range(iterations + 1):
 	print ("Counting down... " + str(iterations - index))
-	index += 1
-
-print("Happy New Year!") 
+	index += 1 
